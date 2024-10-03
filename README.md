@@ -7,3 +7,9 @@
    ![](https://github.com/elena210910/bash/blob/main/foto2%20bash.PNG)
 
 
+
+
+4. СКРИНШОТ 2
+ ![](https://github.com/elena210910/bash/blob/main/foto%20report.PNG)  
+
+
