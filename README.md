@@ -4,6 +4,6 @@
 2.  [Файл, который получился при выполнении analyze_logs.sh ( report.txt)](https://github.com/elena210910/bash/blob/main/report.txt)
 
 3.  CКРИНШОТ 1
-   ![](https://github.com/elena210910/bash)
+   ![](https://github.com/elena210910/bash/blob/main/foto2%20bash.PNG)
 
 
